@@ -28,7 +28,7 @@ function main(){
         "Lionne",
         "Masha",
         "Naomi",
-        "O'rant'",
+        "O'rant",
         "Pork",
         "Quinoa",
         "Rock",
