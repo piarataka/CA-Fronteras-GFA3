@@ -1,0 +1,17 @@
+body{
+
+    background-image:url('eyes.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position-y:-200px;
+}
+
+div#container{
+
+    background-color: floralwhite;
+    margin-top: 65px;
+    text-align: center;
+    font-size: 20px;
+    font-family: monospace;
+    border-style: groove;
+}
